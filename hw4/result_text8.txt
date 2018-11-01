@@ -1,0 +1,200 @@
+six
+0.9011 seven
+0.8626 five
+0.8579 four
+0.8545 three
+0.8393 eight
+0.8127 two
+0.7798 one
+0.7458 nine
+
+right
+0.4216 improbable
+0.4140 ganges
+0.3802 orientations
+0.3792 peculiar
+0.3759 cj
+0.3750 cell
+0.3739 teach
+0.3722 cher
+
+french
+0.4630 german
+0.4308 jehoiakim
+0.4284 english
+0.4167 american
+0.4155 xxi
+0.4065 lama
+0.4042 heavenly
+0.4038 specify
+
+capital
+0.4284 depressive
+0.4040 hearing
+0.4020 desertification
+0.3961 stings
+0.3879 bunch
+0.3820 clarifying
+0.3811 recalled
+0.3782 secretariat
+
+worker
+0.7089 drag
+0.7044 definitively
+0.7026 archive
+0.7004 nage
+0.6997 israelis
+0.6984 mans
+0.6982 ep
+0.6978 phi
+
+his
+0.7524 her
+0.7426 their
+0.6412 s
+0.6024 its
+0.5842 the
+0.4691 a
+0.4691 him
+0.4521 abound
+
+philosophy
+0.4035 resolve
+0.3798 destination
+0.3756 tetra
+0.3714 jaguar
+0.3696 outcomes
+0.3627 sindhu
+0.3503 replicants
+0.3501 titular
+
+history
+0.4458 UNK
+0.4292 lenders
+0.4269 joy
+0.4264 cunningham
+0.4254 neutron
+0.4217 bey
+0.4081 part
+0.4069 list
+
+economic
+0.3973 nicol
+0.3853 doubles
+0.3850 suited
+0.3684 rebuild
+0.3666 dictate
+0.3648 transient
+0.3638 sparing
+0.3632 constantly
+
+american
+0.4986 singled
+0.4900 english
+0.4756 british
+0.4455 pederastic
+0.4412 antisemitism
+0.4322 touches
+0.4320 cecil
+0.4312 fatigue
+
+good
+0.4325 close
+0.4127 revived
+0.4057 infects
+0.3967 biscuit
+0.3947 nelson
+0.3921 choreographer
+0.3894 ayling
+0.3893 fluctuations
+
+bad
+0.4675 sophisticated
+0.4661 postgraduate
+0.4543 convergence
+0.4527 jokes
+0.4493 closer
+0.4473 reputed
+0.4459 wto
+0.4453 albertosaurus
+
+people
+0.4435 robinson
+0.4360 lodgings
+0.4275 touched
+0.4173 privateer
+0.4171 famed
+0.4158 rand
+0.4149 configuration
+0.4132 cuthbert
+
+speech
+0.4000 entertainer
+0.3804 retractable
+0.3741 etudes
+0.3722 editions
+0.3720 fluorescent
+0.3694 encoded
+0.3674 berwick
+0.3639 monotonous
+
+robot
+0.7433 phi
+0.7363 paradigm
+0.7311 kerensky
+0.7291 rodin
+0.7261 kate
+0.7248 circ
+0.7220 almighty
+0.7205 drag
+
+language
+0.4352 imported
+0.4074 lionel
+0.4019 assyrian
+0.4010 rows
+0.3964 eleanor
+0.3962 wearing
+0.3956 totals
+0.3881 appreciating
+
+children
+0.4551 wolfgang
+0.4302 asa
+0.4045 stricter
+0.3991 bison
+0.3968 grimm
+0.3918 sulfate
+0.3887 militant
+0.3883 centrist
+
+computer
+0.3740 intolerance
+0.3651 mural
+0.3626 northerly
+0.3595 cameroon
+0.3588 geometrically
+0.3587 products
+0.3565 hops
+0.3548 latent
+
+community
+0.4207 blatant
+0.4112 vulpes
+0.3901 harvested
+0.3897 mullin
+0.3881 disciplines
+0.3871 wipo
+0.3857 likelihood
+0.3761 bullet
+
+important
+0.4282 migratory
+0.4120 inspectors
+0.3905 angle
+0.3828 devi
+0.3774 profiling
+0.3770 coli
+0.3767 sectors
+0.3751 padded
+
