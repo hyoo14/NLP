@@ -1,7 +1,7 @@
 #NLP
 
 
-<CONTENTS>
+[CONTENTS]
 
 -HW1. Tabular Parser
 
